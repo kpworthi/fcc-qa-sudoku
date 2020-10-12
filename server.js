@@ -46,6 +46,7 @@ app.listen(process.env.PORT || 3000, function () {
       }
     }, 1500);
   }
+  
 });
 
 module.exports = app; // for testing

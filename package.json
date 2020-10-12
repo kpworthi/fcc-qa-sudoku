@@ -1,6 +1,7 @@
 {
   "name": "sudoku-solver",
-  "version": "1.0.0",
+  "version": "0.2.1",
+  "auther": "Kevan Worthington",
   "description": "Quality Assurance 4: Sudoku Solver",
   "main": "index.js",
   "scripts": {
